@@ -1,0 +1,28 @@
+_repo: The-Hours-of-FiammettaA-Sonnet-Sequence_23392
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, Rachel Annand
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '25818'
+    url: http://www.gutenberg.org/2009/agents/25818
+description: ''
+gutenberg_issued: '2007-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: 'The Hours of Fiammetta
+
+  A Sonnet Sequence'
+url: http://www.gutenberg.org/ebooks/23392
